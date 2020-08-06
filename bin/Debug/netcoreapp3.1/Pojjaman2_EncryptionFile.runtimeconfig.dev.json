@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\artma\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\artma\\.nuget\\packages"
+      "C:\\Users\\chohman\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\chohman\\.nuget\\packages"
     ]
   }
 }

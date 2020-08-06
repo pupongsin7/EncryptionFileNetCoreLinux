@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artma\\Documents\\Pojjaman2_EncryptionFile\\Pojjaman2_EncryptionFile.csproj": {}
+    "D:\\EncryptionFileNetCoreLinux\\Pojjaman2_EncryptionFile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artma\\Documents\\Pojjaman2_EncryptionFile\\Pojjaman2_EncryptionFile.csproj": {
+    "D:\\EncryptionFileNetCoreLinux\\Pojjaman2_EncryptionFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artma\\Documents\\Pojjaman2_EncryptionFile\\Pojjaman2_EncryptionFile.csproj",
+        "projectUniqueName": "D:\\EncryptionFileNetCoreLinux\\Pojjaman2_EncryptionFile.csproj",
         "projectName": "Pojjaman2_EncryptionFile",
-        "projectPath": "C:\\Users\\artma\\Documents\\Pojjaman2_EncryptionFile\\Pojjaman2_EncryptionFile.csproj",
-        "packagesPath": "C:\\Users\\artma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artma\\Documents\\Pojjaman2_EncryptionFile\\obj\\",
+        "projectPath": "D:\\EncryptionFileNetCoreLinux\\Pojjaman2_EncryptionFile.csproj",
+        "packagesPath": "C:\\Users\\chohman\\.nuget\\packages\\",
+        "outputPath": "D:\\EncryptionFileNetCoreLinux\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\artma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chohman\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
