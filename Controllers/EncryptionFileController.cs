@@ -57,7 +57,7 @@ namespace Pojjaman2_EncryptionFile.Controllers
 
                 //    return File(fileBytes, System.Net.Mime.MediaTypeNames.Application.Octet, string.Format("{0}", model.FileName + @".enc"));
                 //}
-                return Content(res);
+                return Content("OK");
             }
             catch (Exception ex)
             {
