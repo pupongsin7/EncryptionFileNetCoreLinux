@@ -5,8 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="FileEncryption\" />
     <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
-    <Content Include="FileEncryption\**" CopyToPublishDirectory="PreserveNewest"/>
+	  <Content Include="FileEncryption\**">
+		<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	</Content>
   </ItemGroup>
 
 </Project>

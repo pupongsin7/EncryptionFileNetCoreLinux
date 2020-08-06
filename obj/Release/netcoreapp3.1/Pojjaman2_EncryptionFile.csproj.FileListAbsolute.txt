@@ -18,3 +18,9 @@ C:\Users\artma\Documents\Pojjaman2_EncryptionFile\obj\Release\netcoreapp3.1\stat
 C:\Users\artma\Documents\Pojjaman2_EncryptionFile\obj\Release\netcoreapp3.1\Pojjaman2_EncryptionFile.dll
 C:\Users\artma\Documents\Pojjaman2_EncryptionFile\obj\Release\netcoreapp3.1\Pojjaman2_EncryptionFile.pdb
 C:\Users\artma\Documents\Pojjaman2_EncryptionFile\obj\Release\netcoreapp3.1\Pojjaman2_EncryptionFile.genruntimeconfig.cache
+C:\Users\artma\Documents\Pojjaman2_EncryptionFile\bin\Release\netcoreapp3.1\FileEncryption\AESEncrypter.jar
+C:\Users\artma\Documents\Pojjaman2_EncryptionFile\bin\Release\netcoreapp3.1\FileEncryption\BBL-SameBank.enc
+C:\Users\artma\Documents\Pojjaman2_EncryptionFile\bin\Release\netcoreapp3.1\FileEncryption\BBL-SameBank.txt
+C:\Users\artma\Documents\Pojjaman2_EncryptionFile\bin\Release\netcoreapp3.1\FileEncryption\BBL-SameBank20200804.enc
+C:\Users\artma\Documents\Pojjaman2_EncryptionFile\bin\Release\netcoreapp3.1\FileEncryption\BBL-SameBank20200806.enc
+C:\Users\artma\Documents\Pojjaman2_EncryptionFile\bin\Release\netcoreapp3.1\FileEncryption\BBL-SameBank20200806.txt
